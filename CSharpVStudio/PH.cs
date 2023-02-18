@@ -1,4 +1,3 @@
-
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharpVStudio
 {
-    class Helo
+    class PH
     {
+        public int PHT()
+        {
+            return 0;
+        }
     }
 }
-
