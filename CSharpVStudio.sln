@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2", "CSharpVStudio\B2.cspr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E6711500-507F-4106-BC00-B8E2DC05A83B}"
 	ProjectSection(SolutionItems) = preProject
-		GhiChu.md = GhiChu.md
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Global
